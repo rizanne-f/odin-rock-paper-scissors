@@ -2,6 +2,10 @@
 
 A rock, paper, scissors game vs the computer.
 
-Applies knowledge in function basics, conditionals, and operators.
+Applies knowledge in the following topics:
+* Conditionals
+* Functions
+* DOM Manipulation
+* Events
 
-No GUI yet, currently played with browser console.
+Contains basic game GUI with no CSS styling yet.
